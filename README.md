@@ -9,6 +9,10 @@ the server announces a theme (animals, food, weather, colors and more),
 each player gets a personal question, and the first correct answer within
 30 seconds pays out.
 
+<p align="center">
+  <img src="assets/preview.jpg" alt="VocabQuiz" width="80%" />
+</p>
+
 ## Why this plugin exists
 
 Passive vocabulary is useless in chat. A quiz that interrupts the game
