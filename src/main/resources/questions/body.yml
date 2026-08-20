@@ -1,0 +1,127 @@
+theme: body
+questions:
+  # === EASY (all) ===
+  - id: body_01
+    question: "What do you use to see?"
+    answer: "eyes"
+    aliases: ["the eyes", "my eyes"]
+    difficulty: easy
+    level: all
+  - id: body_02
+    question: "What do you use to hear?"
+    answer: "ears"
+    aliases: ["the ears", "my ears"]
+    difficulty: easy
+    level: all
+  - id: body_03
+    question: "What do you use to smell?"
+    answer: "nose"
+    aliases: ["the nose", "my nose"]
+    difficulty: easy
+    level: all
+  - id: body_04
+    question: "What do you use to eat and speak?"
+    answer: "mouth"
+    aliases: ["the mouth", "my mouth"]
+    difficulty: easy
+    level: all
+  - id: body_05
+    question: "What do you use to walk?"
+    answer: "legs"
+    aliases: ["feet", "the legs", "my legs"]
+    difficulty: easy
+    level: all
+  - id: body_06
+    question: "What do you use to pick up things?"
+    answer: "hands"
+    aliases: ["the hands", "my hands"]
+    difficulty: easy
+    level: all
+  - id: body_07
+    question: "How many fingers do you have on one hand?"
+    answer: "five"
+    aliases: ["5"]
+    difficulty: easy
+    level: all
+  - id: body_08
+    question: "What is on top of your body that holds your brain?"
+    answer: "head"
+    aliases: ["the head", "my head"]
+    difficulty: easy
+    level: all
+  - id: body_09
+    question: "What do you use to bite and chew food?"
+    answer: "teeth"
+    aliases: ["the teeth", "my teeth", "tooth"]
+    difficulty: easy
+    level: all
+  - id: body_10
+    question: "What part of your body do you use to think?"
+    answer: "brain"
+    aliases: ["the brain", "my brain"]
+    difficulty: easy
+    level: all
+
+  # === MEDIUM (a1/a2) ===
+  - id: body_11
+    question: "What do you use to taste food?"
+    answer: "tongue"
+    aliases: ["the tongue", "my tongue"]
+    difficulty: medium
+    level: a1
+  - id: body_12
+    question: "What is the joint between your foot and your leg?"
+    answer: "ankle"
+    aliases: ["the ankle", "my ankle"]
+    difficulty: medium
+    level: a2
+  - id: body_13
+    question: "What is the joint between your hand and your arm?"
+    answer: "wrist"
+    aliases: ["the wrist", "my wrist"]
+    difficulty: medium
+    level: a2
+  - id: body_14
+    question: "What is the bone inside your head called?"
+    answer: "skull"
+    aliases: ["the skull", "my skull"]
+    difficulty: medium
+    level: a2
+  - id: body_15
+    question: "What connects your muscles to your bones?"
+    answer: "tendons"
+    aliases: ["tendon", "the tendons"]
+    difficulty: hard
+    level: b1
+  - id: body_16
+    question: "What is the large bone in your upper leg?"
+    answer: "femur"
+    aliases: ["the femur", "thigh bone"]
+    difficulty: hard
+    level: b1
+  - id: body_17
+    question: "What organ pumps blood through your body?"
+    answer: "heart"
+    aliases: ["the heart", "my heart"]
+    difficulty: medium
+    level: a1
+  - id: body_18
+    question: "What organ do you use to breathe?"
+    answer: "lungs"
+    aliases: ["the lungs", "my lungs"]
+    difficulty: medium
+    level: a1
+
+  # === HARD (b1+) ===
+  - id: body_19
+    question: "What is the colored part of your eye called?"
+    answer: "iris"
+    aliases: ["the iris"]
+    difficulty: hard
+    level: b1
+  - id: body_20
+    question: "What is the largest organ of the human body?"
+    answer: "skin"
+    aliases: ["the skin"]
+    difficulty: hard
+    level: b1

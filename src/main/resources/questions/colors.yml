@@ -1,0 +1,145 @@
+theme: colors
+questions:
+  # === EASY (all) ===
+  - id: colors_01
+    question: "What color is the sky on a clear day?"
+    answer: "blue"
+    aliases: ["the blue"]
+    difficulty: easy
+    level: all
+  - id: colors_02
+    question: "What color is grass?"
+    answer: "green"
+    aliases: ["the green"]
+    difficulty: easy
+    level: all
+  - id: colors_03
+    question: "What color is snow?"
+    answer: "white"
+    aliases: ["the white"]
+    difficulty: easy
+    level: all
+  - id: colors_04
+    question: "What color is the sun?"
+    answer: "yellow"
+    aliases: ["the yellow"]
+    difficulty: easy
+    level: all
+  - id: colors_05
+    question: "What color is a fire truck?"
+    answer: "red"
+    aliases: ["the red"]
+    difficulty: easy
+    level: all
+  - id: colors_06
+    question: "What color is chocolate?"
+    answer: "brown"
+    aliases: ["the brown"]
+    difficulty: easy
+    level: all
+  - id: colors_07
+    question: "What color is the night sky without stars?"
+    answer: "black"
+    aliases: ["the black"]
+    difficulty: easy
+    level: all
+  - id: colors_08
+    question: "What color are oranges?"
+    answer: "orange"
+    aliases: ["the orange"]
+    difficulty: easy
+    level: all
+  - id: colors_09
+    question: "What color is a rose?"
+    answer: "red"
+    aliases: ["pink"]
+    difficulty: easy
+    level: all
+  - id: colors_10
+    question: "What color is a pig?"
+    answer: "pink"
+    aliases: ["the pink"]
+    difficulty: easy
+    level: all
+  - id: colors_11
+    question: "What color are clouds?"
+    answer: "white"
+    aliases: ["grey", "gray"]
+    difficulty: easy
+    level: all
+  - id: colors_12
+    question: "What color is a school bus in the USA?"
+    answer: "yellow"
+    aliases: ["the yellow"]
+    difficulty: easy
+    level: all
+
+  # === MEDIUM (a1/a2) ===
+  - id: colors_13
+    question: "What color do you get when you mix red and white?"
+    answer: "pink"
+    aliases: ["the pink"]
+    difficulty: medium
+    level: a1
+  - id: colors_14
+    question: "What color do you get when you mix blue and yellow?"
+    answer: "green"
+    aliases: ["the green"]
+    difficulty: medium
+    level: a1
+  - id: colors_15
+    question: "What color do you get when you mix red and blue?"
+    answer: "purple"
+    aliases: ["the purple", "violet"]
+    difficulty: medium
+    level: a1
+  - id: colors_16
+    question: "What color is a rainbow's seventh stripe?"
+    answer: "violet"
+    aliases: ["purple"]
+    difficulty: medium
+    level: a1
+  - id: colors_17
+    question: "What metallic color are gold medals?"
+    answer: "gold"
+    aliases: ["the gold", "golden"]
+    difficulty: medium
+    level: a1
+  - id: colors_18
+    question: "What metallic color are silver medals?"
+    answer: "silver"
+    aliases: ["the silver"]
+    difficulty: medium
+    level: a1
+
+  # === HARD (b1+) ===
+  - id: colors_19
+    question: "What is a very dark blue color named after a navy uniform?"
+    answer: "navy"
+    aliases: ["navy blue", "the navy"]
+    difficulty: hard
+    level: b1
+  - id: colors_20
+    question: "What is a pale purple color named after a flower?"
+    answer: "lavender"
+    aliases: ["the lavender"]
+    difficulty: hard
+    level: b1
+  - id: colors_21
+    question: "What is a blue-green color named after a gemstone?"
+    answer: "turquoise"
+    aliases: ["the turquoise"]
+    difficulty: hard
+    level: b1
+  - id: colors_22
+    question: "What color is named after the reddish-brown of burnt clay?"
+    answer: "terracotta"
+    aliases: ["terracotta", "the terracotta"]
+    difficulty: hard
+    level: b1
+  - id: colors_23
+    question: "What is a very bright pink color called?"
+    answer: "magenta"
+    aliases: ["the magenta", "fuchsia"]
+    difficulty: hard
+    level: b1

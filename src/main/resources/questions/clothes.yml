@@ -1,0 +1,145 @@
+theme: clothes
+questions:
+  # === EASY (all) ===
+  - id: clothes_01
+    question: "What do you wear on your feet?"
+    answer: "shoes"
+    aliases: ["the shoes", "sneakers", "boots"]
+    difficulty: easy
+    level: all
+  - id: clothes_02
+    question: "What do you wear on your head to keep warm?"
+    answer: "hat"
+    aliases: ["a hat", "the hat", "cap"]
+    difficulty: easy
+    level: all
+  - id: clothes_03
+    question: "What do you wear when it's cold outside?"
+    answer: "jacket"
+    aliases: ["a jacket", "the jacket", "coat"]
+    difficulty: easy
+    level: all
+  - id: clothes_04
+    question: "What do you wear on your hands in winter?"
+    answer: "gloves"
+    aliases: ["the gloves"]
+    difficulty: easy
+    level: all
+  - id: clothes_05
+    question: "What do you wear around your neck when it's cold?"
+    answer: "scarf"
+    aliases: ["a scarf", "the scarf"]
+    difficulty: easy
+    level: all
+  - id: clothes_06
+    question: "What do you wear on the lower half of your body?"
+    answer: "pants"
+    aliases: ["trousers", "jeans"]
+    difficulty: easy
+    level: all
+  - id: clothes_07
+    question: "What do you wear on the upper half of your body?"
+    answer: "shirt"
+    aliases: ["a shirt", "the shirt", "t-shirt"]
+    difficulty: easy
+    level: all
+  - id: clothes_08
+    question: "What do you wear to bed?"
+    answer: "pajamas"
+    aliases: ["pyjamas", "pjs"]
+    difficulty: easy
+    level: all
+  - id: clothes_09
+    question: "What do you put on your feet with shoes?"
+    answer: "socks"
+    aliases: ["the socks"]
+    difficulty: easy
+    level: all
+  - id: clothes_10
+    question: "What do you wear for sports on your feet?"
+    answer: "sneakers"
+    aliases: ["trainers", "running shoes"]
+    difficulty: easy
+    level: all
+
+  # === MEDIUM (a1/a2) ===
+  - id: clothes_11
+    question: "What do people wear to go swimming?"
+    answer: "swimsuit"
+    aliases: ["a swimsuit", "swimming suit", "bathing suit"]
+    difficulty: medium
+    level: a1
+  - id: clothes_12
+    question: "What accessory do you wear on your wrist to tell time?"
+    answer: "watch"
+    aliases: ["a watch", "the watch"]
+    difficulty: medium
+    level: a1
+  - id: clothes_13
+    question: "What do you wear around your neck for formal events?"
+    answer: "tie"
+    aliases: ["a tie", "the tie"]
+    difficulty: medium
+    level: a2
+  - id: clothes_14
+    question: "What do women wear that is a one-piece from shoulders to legs?"
+    answer: "dress"
+    aliases: ["a dress", "the dress"]
+    difficulty: medium
+    level: a1
+  - id: clothes_15
+    question: "What do people wear over their clothes when it rains?"
+    answer: "raincoat"
+    aliases: ["a raincoat", "the raincoat"]
+    difficulty: medium
+    level: a1
+  - id: clothes_16
+    question: "What do you wear on your eyes to protect from the sun?"
+    answer: "sunglasses"
+    aliases: ["glasses", "shades"]
+    difficulty: medium
+    level: a1
+  - id: clothes_17
+    question: "What is a warm top with a hood called?"
+    answer: "hoodie"
+    aliases: ["a hoodie", "the hoodie", "hoody"]
+    difficulty: medium
+    level: a2
+  - id: clothes_18
+    question: "What piece of clothing do you wear under your shirt?"
+    answer: "undershirt"
+    aliases: ["vest", "tank top"]
+    difficulty: medium
+    level: a2
+
+  # === HARD (b1+) ===
+  - id: clothes_19
+    question: "What traditional Scottish clothing looks like a skirt?"
+    answer: "kilt"
+    aliases: ["a kilt", "the kilt"]
+    difficulty: hard
+    level: b1
+  - id: clothes_20
+    question: "What is a formal jacket that men wear with a tie?"
+    answer: "blazer"
+    aliases: ["a blazer", "the blazer", "suit jacket"]
+    difficulty: hard
+    level: b1
+  - id: clothes_21
+    question: "What Japanese traditional clothing looks like a robe?"
+    answer: "kimono"
+    aliases: ["a kimono", "the kimono"]
+    difficulty: hard
+    level: b1
+  - id: clothes_22
+    question: "What type of shoe has a high heel?"
+    answer: "high heels"
+    aliases: ["heels"]
+    difficulty: hard
+    level: b1
+  - id: clothes_23
+    question: "What is a long coat worn in the rain called?"
+    answer: "trench coat"
+    aliases: ["trenchcoat", "a trench coat"]
+    difficulty: hard
+    level: b1

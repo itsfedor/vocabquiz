@@ -1,0 +1,145 @@
+theme: weather
+questions:
+  # === EASY (all) ===
+  - id: weather_01
+    question: "What is it called when water falls from the sky?"
+    answer: "rain"
+    aliases: ["the rain"]
+    difficulty: easy
+    level: all
+  - id: weather_02
+    question: "What is white, cold, and falls in winter?"
+    answer: "snow"
+    aliases: ["the snow"]
+    difficulty: easy
+    level: all
+  - id: weather_03
+    question: "What bright thing shines in the sky during the day?"
+    answer: "sun"
+    aliases: ["the sun"]
+    difficulty: easy
+    level: all
+  - id: weather_04
+    question: "What moves the leaves and makes you feel cool?"
+    answer: "wind"
+    aliases: ["the wind"]
+    difficulty: easy
+    level: all
+  - id: weather_05
+    question: "What is the opposite of hot?"
+    answer: "cold"
+    aliases: ["the cold"]
+    difficulty: easy
+    level: all
+  - id: weather_06
+    question: "What is the opposite of cold?"
+    answer: "hot"
+    aliases: ["heat", "warm"]
+    difficulty: easy
+    level: all
+  - id: weather_07
+    question: "What covers the sky on a grey day?"
+    answer: "clouds"
+    aliases: ["cloud", "the clouds", "a cloud"]
+    difficulty: easy
+    level: all
+  - id: weather_08
+    question: "What season has flowers and warm weather?"
+    answer: "spring"
+    aliases: ["the spring"]
+    difficulty: easy
+    level: all
+  - id: weather_09
+    question: "What season is the hottest?"
+    answer: "summer"
+    aliases: ["the summer"]
+    difficulty: easy
+    level: all
+  - id: weather_10
+    question: "What season has falling leaves?"
+    answer: "autumn"
+    aliases: ["fall"]
+    difficulty: easy
+    level: all
+  - id: weather_11
+    question: "What season is the coldest?"
+    answer: "winter"
+    aliases: ["the winter"]
+    difficulty: easy
+    level: all
+
+  # === MEDIUM (a1/a2) ===
+  - id: weather_12
+    question: "What do you see in the sky after rain, with many colors?"
+    answer: "rainbow"
+    aliases: ["a rainbow", "the rainbow"]
+    difficulty: medium
+    level: a1
+  - id: weather_13
+    question: "What weather phenomenon has thunder and lightning?"
+    answer: "storm"
+    aliases: ["a storm", "the storm", "thunderstorm"]
+    difficulty: medium
+    level: a2
+  - id: weather_14
+    question: "What is thick cloud near the ground that you cannot see through?"
+    answer: "fog"
+    aliases: ["the fog", "mist"]
+    difficulty: medium
+    level: a1
+  - id: weather_15
+    question: "What is frozen rain called?"
+    answer: "hail"
+    aliases: ["hailstones", "the hail"]
+    difficulty: medium
+    level: a2
+  - id: weather_16
+    question: "What is a very light rain called?"
+    answer: "drizzle"
+    aliases: ["the drizzle"]
+    difficulty: medium
+    level: a2
+  - id: weather_17
+    question: "What do you call a period of very hot weather?"
+    answer: "heatwave"
+    aliases: ["heat wave", "a heatwave"]
+    difficulty: medium
+    level: a2
+  - id: weather_18
+    question: "What measures temperature?"
+    answer: "thermometer"
+    aliases: ["a thermometer", "the thermometer"]
+    difficulty: medium
+    level: a1
+
+  # === HARD (b1+) ===
+  - id: weather_19
+    question: "What do you call a very strong wind that spins?"
+    answer: "tornado"
+    aliases: ["a tornado", "the tornado", "hurricane"]
+    difficulty: hard
+    level: b1
+  - id: weather_20
+    question: "What is the word for 'humidity' — how much water is in the air?"
+    answer: "humidity"
+    aliases: ["the humidity", "moisture"]
+    difficulty: hard
+    level: b1
+  - id: weather_21
+    question: "What is a very large ocean storm called?"
+    answer: "hurricane"
+    aliases: ["a hurricane", "the hurricane", "typhoon", "cyclone"]
+    difficulty: hard
+    level: b1
+  - id: weather_22
+    question: "What is a long period with no rain called?"
+    answer: "drought"
+    aliases: ["a drought", "the drought"]
+    difficulty: hard
+    level: b1
+  - id: weather_23
+    question: "What is frozen water hanging from the roof in winter?"
+    answer: "icicle"
+    aliases: ["an icicle", "icicles"]
+    difficulty: hard
+    level: b1

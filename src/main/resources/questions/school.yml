@@ -1,0 +1,145 @@
+theme: school
+questions:
+  # === EASY (all) ===
+  - id: school_01
+    question: "What do you use to write with a point?"
+    answer: "pencil"
+    aliases: ["a pencil", "the pencil"]
+    difficulty: easy
+    level: all
+  - id: school_02
+    question: "What do you write on with a pen?"
+    answer: "paper"
+    aliases: ["a paper", "the paper"]
+    difficulty: easy
+    level: all
+  - id: school_03
+    question: "What do you read that has pages?"
+    answer: "book"
+    aliases: ["a book", "the book"]
+    difficulty: easy
+    level: all
+  - id: school_04
+    question: "Who teaches students in a classroom?"
+    answer: "teacher"
+    aliases: ["a teacher", "the teacher"]
+    difficulty: easy
+    level: all
+  - id: school_05
+    question: "What do you sit at in a classroom?"
+    answer: "desk"
+    aliases: ["a desk", "the desk"]
+    difficulty: easy
+    level: all
+  - id: school_06
+    question: "What do you carry your books in?"
+    answer: "backpack"
+    aliases: ["a backpack", "the backpack", "bag", "schoolbag"]
+    difficulty: easy
+    level: all
+  - id: school_07
+    question: "What do you write on the wall with chalk?"
+    answer: "blackboard"
+    aliases: ["board", "whiteboard", "chalkboard"]
+    difficulty: easy
+    level: all
+  - id: school_08
+    question: "What do you use to remove pencil marks?"
+    answer: "eraser"
+    aliases: ["an eraser", "rubber"]
+    difficulty: easy
+    level: all
+  - id: school_09
+    question: "What do you use to cut paper?"
+    answer: "scissors"
+    aliases: ["the scissors"]
+    difficulty: easy
+    level: all
+  - id: school_10
+    question: "What do you use to measure length?"
+    answer: "ruler"
+    aliases: ["a ruler", "the ruler"]
+    difficulty: easy
+    level: all
+
+  # === MEDIUM (a1/a2) ===
+  - id: school_11
+    question: "What is the study of numbers and shapes called?"
+    answer: "mathematics"
+    aliases: ["math", "maths"]
+    difficulty: medium
+    level: a1
+  - id: school_12
+    question: "What is the study of the past called?"
+    answer: "history"
+    aliases: ["the history"]
+    difficulty: medium
+    level: a1
+  - id: school_13
+    question: "What is the study of living things called?"
+    answer: "biology"
+    aliases: ["the biology"]
+    difficulty: medium
+    level: a2
+  - id: school_14
+    question: "What is the place where you borrow books called?"
+    answer: "library"
+    aliases: ["a library", "the library"]
+    difficulty: medium
+    level: a1
+  - id: school_15
+    question: "What is the room where scientists do experiments called?"
+    answer: "laboratory"
+    aliases: ["lab", "a lab", "the lab"]
+    difficulty: medium
+    level: a2
+  - id: school_16
+    question: "What do you call the break between classes?"
+    answer: "recess"
+    aliases: ["break", "interval"]
+    difficulty: medium
+    level: a2
+  - id: school_17
+    question: "What do you call the work you do at home for school?"
+    answer: "homework"
+    aliases: ["the homework"]
+    difficulty: medium
+    level: a1
+  - id: school_18
+    question: "What is a test at the end of a course called?"
+    answer: "exam"
+    aliases: ["examination", "test"]
+    difficulty: medium
+    level: a1
+
+  # === HARD (b1+) ===
+  - id: school_19
+    question: "What is a university student studying for their first degree called?"
+    answer: "undergraduate"
+    aliases: ["undergrad"]
+    difficulty: hard
+    level: b1
+  - id: school_20
+    question: "What is the study of the Earth's surface called?"
+    answer: "geography"
+    aliases: ["the geography"]
+    difficulty: hard
+    level: b1
+  - id: school_21
+    question: "What is a lesson where one teacher works with one student called?"
+    answer: "tutorial"
+    aliases: ["a tutorial", "the tutorial"]
+    difficulty: hard
+    level: b1
+  - id: school_22
+    question: "What do you call a long essay for a university degree?"
+    answer: "dissertation"
+    aliases: ["thesis"]
+    difficulty: hard
+    level: b1
+  - id: school_23
+    question: "What is the study of matter and energy called?"
+    answer: "physics"
+    aliases: ["the physics"]
+    difficulty: hard
+    level: b1

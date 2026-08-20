@@ -1,0 +1,44 @@
+# Quiz timing
+quiz:
+  interval-minutes: 10        # Announce quiz every 10 minutes
+  answer-timeout-seconds: 30  # Player has 30s to answer their personal question
+  cooldown-seconds: 60        # Player cooldown between quiz participations
+  
+# Rewards
+rewards:
+  correct-answer: 5.0         # Award for correct answer within time
+
+# Themes (cycle daily in order, or random)
+themes:
+  mode: daily-cycle          # daily-cycle | random
+  list:
+    - animals
+    - food
+    - weather
+    - colors
+    - clothes
+    - body
+    - family
+    - school
+
+# Level filtering
+levels:
+  enabled: true              # If true, questions filtered by player's English level
+  track: english             # LuckPerms track name
+  default: a0                # Default level if none found
+
+# Messages (color codes with &)
+messages:
+  prefix: "&8[&6VocabQuiz&8]"
+  announce: "&6📢 &eVocabulary Quiz! &fTopic: &b{theme} &f— Click to participate!"
+  participate-btn: "&a&l[Участвовать]"
+  already-joined: "&cYou're already in the current quiz!"
+  your-question: "&e❓ &fYour question (&b{level}&f): &6{question}"
+  timer: "&7⏱ &fYou have &c{seconds}s &fto answer! Type &e/answer <word>"
+  correct: "&a✔ &f{player} &agot it! Answer: &e{answer} &a(+${reward})"
+  wrong: "&c✗ &fThat's not correct. Try again!"
+  timeout: "&c⏰ &fTime's up! The answer was: &e{answer}"
+  cooldown: "&c⏳ Wait {seconds}s before joining another quiz!"
+  no-question: "&cNo active quiz question for you!"
+  skipped: "&e⏭ Quiz cancelled by admin."
+  theme-change: "&6📖 Today's theme: &e{theme}"

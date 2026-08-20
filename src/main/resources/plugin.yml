@@ -1,0 +1,16 @@
+name: VocabQuiz
+version: '1.0.0'
+main: com.nous.vocabquiz.VocabQuiz
+api-version: '1.21'
+depend: [Vault]
+softdepend: [LuckPerms]
+authors: [Nous]
+description: Broadcast vocabulary quiz for English learning
+commands:
+  answer:
+    description: Answer the current vocab quiz question
+    usage: /answer <word>
+  vocabquiz:
+    description: VocabQuiz admin commands and participation
+    usage: /vocabquiz <join|skip|theme|reload>
+    aliases: [vq]

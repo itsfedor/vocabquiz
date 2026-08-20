@@ -1,0 +1,247 @@
+theme: animals
+questions:
+  # === EASY (all) ===
+  - id: animals_01
+    question: "What animal says 'moo'?"
+    answer: "cow"
+    aliases: ["a cow", "the cow"]
+    difficulty: easy
+    level: all
+  - id: animals_02
+    question: "What animal says 'meow'?"
+    answer: "cat"
+    aliases: ["a cat", "the cat"]
+    difficulty: easy
+    level: all
+  - id: animals_03
+    question: "What animal says 'woof'?"
+    answer: "dog"
+    aliases: ["a dog", "the dog"]
+    difficulty: easy
+    level: all
+  - id: animals_04
+    question: "What animal has a long neck?"
+    answer: "giraffe"
+    aliases: ["a giraffe", "the giraffe"]
+    difficulty: easy
+    level: all
+  - id: animals_05
+    question: "What animal is black and white and lives in China?"
+    answer: "panda"
+    aliases: ["a panda", "the panda"]
+    difficulty: easy
+    level: all
+  - id: animals_06
+    question: "What animal can fly and builds nests?"
+    answer: "bird"
+    aliases: ["a bird", "the bird"]
+    difficulty: easy
+    level: all
+  - id: animals_07
+    question: "What animal is the king of the jungle?"
+    answer: "lion"
+    aliases: ["a lion", "the lion"]
+    difficulty: easy
+    level: all
+  - id: animals_08
+    question: "What animal has eight legs?"
+    answer: "spider"
+    aliases: ["a spider", "the spider"]
+    difficulty: easy
+    level: all
+  - id: animals_09
+    question: "What animal is known as 'man's best friend'?"
+    answer: "dog"
+    aliases: ["a dog", "the dog"]
+    difficulty: easy
+    level: all
+  - id: animals_10
+    question: "What animal has a long trunk?"
+    answer: "elephant"
+    aliases: ["an elephant", "the elephant"]
+    difficulty: easy
+    level: all
+  - id: animals_11
+    question: "What animal lives in water and has fins?"
+    answer: "fish"
+    aliases: ["a fish", "the fish"]
+    difficulty: easy
+    level: all
+  - id: animals_12
+    question: "What animal has stripes and looks like a horse?"
+    answer: "zebra"
+    aliases: ["a zebra", "the zebra"]
+    difficulty: easy
+    level: all
+  - id: animals_13
+    question: "What animal is small, gray, and likes cheese?"
+    answer: "mouse"
+    aliases: ["a mouse", "the mouse"]
+    difficulty: easy
+    level: all
+  - id: animals_14
+    question: "What animal gives us wool?"
+    answer: "sheep"
+    aliases: ["a sheep", "the sheep"]
+    difficulty: easy
+    level: all
+  - id: animals_15
+    question: "What animal says 'oink'?"
+    answer: "pig"
+    aliases: ["a pig", "the pig"]
+    difficulty: easy
+    level: all
+  - id: animals_16
+    question: "What animal is big and brown and sleeps in winter?"
+    answer: "bear"
+    aliases: ["a bear", "the bear"]
+    difficulty: easy
+    level: all
+  - id: animals_17
+    question: "What animal has a shell and moves very slowly?"
+    answer: "turtle"
+    aliases: ["a turtle", "the turtle", "tortoise"]
+    difficulty: easy
+    level: all
+  - id: animals_18
+    question: "What animal can hop and has long ears?"
+    answer: "rabbit"
+    aliases: ["a rabbit", "the rabbit", "bunny"]
+    difficulty: easy
+    level: all
+  - id: animals_19
+    question: "What animal has no legs and slides on the ground?"
+    answer: "snake"
+    aliases: ["a snake", "the snake"]
+    difficulty: easy
+    level: all
+  - id: animals_20
+    question: "What animal lives on a farm and gives us eggs?"
+    answer: "chicken"
+    aliases: ["a chicken", "the chicken", "hen"]
+    difficulty: easy
+    level: all
+
+  # === MEDIUM (a1/a2) ===
+  - id: animals_21
+    question: "What animal swims in the ocean and is very intelligent?"
+    answer: "dolphin"
+    aliases: ["a dolphin", "the dolphin"]
+    difficulty: medium
+    level: a1
+  - id: animals_22
+    question: "What animal hops and carries its baby in a pouch?"
+    answer: "kangaroo"
+    aliases: ["a kangaroo", "the kangaroo"]
+    difficulty: medium
+    level: a1
+  - id: animals_23
+    question: "What is the largest animal in the world?"
+    answer: "whale"
+    aliases: ["a whale", "the whale", "blue whale"]
+    difficulty: medium
+    level: a1
+  - id: animals_24
+    question: "What animal sleeps upside down?"
+    answer: "bat"
+    aliases: ["a bat", "the bat"]
+    difficulty: medium
+    level: a2
+  - id: animals_25
+    question: "What animal can change its color to hide?"
+    answer: "chameleon"
+    aliases: ["a chameleon", "the chameleon"]
+    difficulty: medium
+    level: a2
+  - id: animals_26
+    question: "What animal is the fastest land animal?"
+    answer: "cheetah"
+    aliases: ["a cheetah", "the cheetah"]
+    difficulty: medium
+    level: a2
+  - id: animals_27
+    question: "What bird cannot fly but swims very well?"
+    answer: "penguin"
+    aliases: ["a penguin", "the penguin"]
+    difficulty: medium
+    level: a1
+  - id: animals_28
+    question: "What animal builds dams in rivers?"
+    answer: "beaver"
+    aliases: ["a beaver", "the beaver"]
+    difficulty: medium
+    level: a2
+  - id: animals_29
+    question: "What insect makes honey?"
+    answer: "bee"
+    aliases: ["a bee", "the bee"]
+    difficulty: medium
+    level: a1
+  - id: animals_30
+    question: "What animal has sharp teeth and lives in the ocean?"
+    answer: "shark"
+    aliases: ["a shark", "the shark"]
+    difficulty: medium
+    level: a1
+  - id: animals_31
+    question: "What bird is a symbol of peace?"
+    answer: "dove"
+    aliases: ["a dove", "the dove", "pigeon"]
+    difficulty: medium
+    level: a2
+  - id: animals_32
+    question: "What animal carries its home on its back?"
+    answer: "snail"
+    aliases: ["a snail", "the snail"]
+    difficulty: medium
+    level: a1
+  - id: animals_33
+    question: "What animal is famous for its laugh-like sound?"
+    answer: "hyena"
+    aliases: ["a hyena", "the hyena"]
+    difficulty: medium
+    level: a2
+  - id: animals_34
+    question: "What animal has a horn on its nose?"
+    answer: "rhinoceros"
+    aliases: ["rhino", "a rhino", "the rhino", "a rhinoceros"]
+    difficulty: medium
+    level: a2
+  - id: animals_35
+    question: "What animal is the largest bird in the world?"
+    answer: "ostrich"
+    aliases: ["an ostrich", "the ostrich"]
+    difficulty: medium
+    level: a2
+
+  # === HARD (b1+) ===
+  - id: animals_36
+    question: "What animal is called the 'ship of the desert'?"
+    answer: "camel"
+    aliases: ["a camel", "the camel"]
+    difficulty: hard
+    level: b1
+  - id: animals_37
+    question: "What nocturnal bird is known for its wisdom?"
+    answer: "owl"
+    aliases: ["an owl", "the owl"]
+    difficulty: hard
+    level: b1
+  - id: animals_38
+    question: "What mammal can truly fly (not glide)?"
+    answer: "bat"
+    aliases: ["a bat", "the bat"]
+    difficulty: hard
+    level: b1
+  - id: animals_39
+    question: "What animal is known for playing dead when threatened?"
+    answer: "opossum"
+    aliases: ["an opossum", "the opossum", "possum"]
+    difficulty: hard
+    level: b1
+  - id: animals_40
+    question: "What Australian animal eats only eucalyptus leaves?"
+    answer: "koala"
+    aliases: ["a koala", "the koala"]
+    difficulty: hard
+    level: b1

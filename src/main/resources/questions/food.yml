@@ -1,0 +1,187 @@
+theme: food
+questions:
+  # === EASY (all) ===
+  - id: food_01
+    question: "What fruit is red and grows on trees?"
+    answer: "apple"
+    aliases: ["an apple", "the apple"]
+    difficulty: easy
+    level: all
+  - id: food_02
+    question: "What yellow fruit do monkeys love?"
+    answer: "banana"
+    aliases: ["a banana", "the banana"]
+    difficulty: easy
+    level: all
+  - id: food_03
+    question: "What drink comes from cows?"
+    answer: "milk"
+    aliases: ["the milk"]
+    difficulty: easy
+    level: all
+  - id: food_04
+    question: "What Italian food is round with cheese and tomato?"
+    answer: "pizza"
+    aliases: ["a pizza", "the pizza"]
+    difficulty: easy
+    level: all
+  - id: food_05
+    question: "What orange vegetable do rabbits eat?"
+    answer: "carrot"
+    aliases: ["a carrot", "the carrot"]
+    difficulty: easy
+    level: all
+  - id: food_06
+    question: "What do bees make that is sweet?"
+    answer: "honey"
+    aliases: ["the honey"]
+    difficulty: easy
+    level: all
+  - id: food_07
+    question: "What is the most popular hot drink in the world?"
+    answer: "coffee"
+    aliases: ["tea"]
+    difficulty: easy
+    level: all
+  - id: food_08
+    question: "What food is made from bread with meat and cheese inside?"
+    answer: "sandwich"
+    aliases: ["a sandwich", "the sandwich"]
+    difficulty: easy
+    level: all
+  - id: food_09
+    question: "What white grains do people eat with chopsticks in Asia?"
+    answer: "rice"
+    aliases: ["the rice"]
+    difficulty: easy
+    level: all
+  - id: food_10
+    question: "What do you eat for breakfast with milk in a bowl?"
+    answer: "cereal"
+    aliases: ["the cereal", "cornflakes"]
+    difficulty: easy
+    level: all
+  - id: food_11
+    question: "What is made from potatoes and is long and thin, often fried?"
+    answer: "fries"
+    aliases: ["chips", "french fries", "potato chips"]
+    difficulty: easy
+    level: all
+  - id: food_12
+    question: "What food do you eat on your birthday with candles?"
+    answer: "cake"
+    aliases: ["a cake", "the cake"]
+    difficulty: easy
+    level: all
+  - id: food_13
+    question: "What yellow fruit is sour?"
+    answer: "lemon"
+    aliases: ["a lemon", "the lemon"]
+    difficulty: easy
+    level: all
+  - id: food_14
+    question: "What is cold, sweet, and comes in many flavours?"
+    answer: "ice cream"
+    aliases: ["icecream"]
+    difficulty: easy
+    level: all
+  - id: food_15
+    question: "What do you put on bread to make a sandwich?"
+    answer: "butter"
+    aliases: ["cheese", "ham", "meat"]
+    difficulty: easy
+    level: all
+
+  # === MEDIUM (a1/a2) ===
+  - id: food_16
+    question: "What Japanese food is made with rice and raw fish?"
+    answer: "sushi"
+    aliases: ["the sushi"]
+    difficulty: medium
+    level: a2
+  - id: food_17
+    question: "What green vegetable looks like a small tree?"
+    answer: "broccoli"
+    aliases: ["a broccoli", "the broccoli"]
+    difficulty: medium
+    level: a2
+  - id: food_18
+    question: "What food comes from Italy and is long and thin?"
+    answer: "spaghetti"
+    aliases: ["pasta", "noodles"]
+    difficulty: medium
+    level: a1
+  - id: food_19
+    question: "What is a round fruit with water inside, green outside and red inside?"
+    answer: "watermelon"
+    aliases: ["a watermelon", "the watermelon"]
+    difficulty: medium
+    level: a1
+  - id: food_20
+    question: "What Mexican food is wrapped in a tortilla?"
+    answer: "taco"
+    aliases: ["a taco", "the taco", "burrito"]
+    difficulty: medium
+    level: a1
+  - id: food_21
+    question: "What small purple fruit is used to make wine?"
+    answer: "grape"
+    aliases: ["grapes", "a grape", "the grape"]
+    difficulty: medium
+    level: a1
+  - id: food_22
+    question: "What creamy food is made from milk and often has fruit at the bottom?"
+    answer: "yogurt"
+    aliases: ["yoghurt", "the yogurt"]
+    difficulty: medium
+    level: a2
+  - id: food_23
+    question: "What do you call a slice of bread that has been heated until brown?"
+    answer: "toast"
+    aliases: ["the toast"]
+    difficulty: medium
+    level: a1
+  - id: food_24
+    question: "What nuts are used to make peanut butter?"
+    answer: "peanuts"
+    aliases: ["peanut"]
+    difficulty: medium
+    level: a1
+  - id: food_25
+    question: "What spicy red vegetable is often used in Mexican and Indian food?"
+    answer: "chili"
+    aliases: ["chilli", "pepper", "chili pepper"]
+    difficulty: medium
+    level: a2
+
+  # === HARD (b1+) ===
+  - id: food_26
+    question: "What French bread is long and thin with a crispy crust?"
+    answer: "baguette"
+    aliases: ["a baguette", "the baguette"]
+    difficulty: hard
+    level: b1
+  - id: food_27
+    question: "What is the Korean dish made from fermented vegetables?"
+    answer: "kimchi"
+    aliases: ["kimchee"]
+    difficulty: hard
+    level: b1
+  - id: food_28
+    question: "What green fruit has a large seed inside and is used to make guacamole?"
+    answer: "avocado"
+    aliases: ["an avocado", "the avocado"]
+    difficulty: hard
+    level: b1
+  - id: food_29
+    question: "What Middle Eastern food is made from ground chickpeas?"
+    answer: "hummus"
+    aliases: ["the hummus"]
+    difficulty: hard
+    level: b1
+  - id: food_30
+    question: "What is the Russian soup made from beets?"
+    answer: "borscht"
+    aliases: ["borsch", "borshch"]
+    difficulty: hard
+    level: b1
