@@ -29,8 +29,8 @@ real conversation than reading a word list.
 ## Requirements
 
 - Paper or Spigot 1.21+
-- Vault with an economy plugin
-- Optional: LuckPerms for level-filtered questions
+- [Vault](https://www.spigotmc.org/resources/vault.34315/) + an economy plugin (e.g. [EssentialsX](https://essentialsx.net/downloads.html))
+- Optional: [LuckPerms](https://luckperms.net/) — level filtering (`levels.enabled`) is **on by default** and needs the `english` track; without LuckPerms set `levels.enabled: false`.
 
 ## Commands
 
@@ -44,9 +44,22 @@ real conversation than reading a word list.
 
 ## Install
 
-1. Put `VocabQuiz.jar` in `plugins/`.
-2. Copy `config.example.yml` to `config.yml`.
-3. Restart the server.
+1. Download `VocabQuiz.jar` from [Releases](https://github.com/itsfedor/vocabquiz/releases/latest) (or use the copy in the repo root).
+2. Put the jar in `plugins/`.
+3. Copy `config.example.yml` to `config.yml`.
+4. Restart the server.
+
+If you keep `levels.enabled: true` (default), first create the LuckPerms
+track `english` — or set `levels.enabled: false` to quiz everyone with the
+full word pool.
+
+## Build from source
+
+```bash
+./gradlew build
+```
+
+Requires JDK 21. Produces `build/libs/VocabQuiz.jar`.
 
 ## Configuration
 
@@ -68,6 +81,12 @@ levels:
   track: english
   default: a0
 ```
+
+## Troubleshooting
+
+- **No questions are asked** — check the quiz interval in `config.yml` and the console: a plugin-level error (Vault missing) disables the whole loop.
+- **Wrong level's words (or empty rounds)** — with LuckPerms, players are placed by the `english` track; create it (`/lp createtrack english`) or set `levels.enabled: false`.
+- **Rewards not paid** — a Vault-registered economy plugin must be present; Vault by itself pays nothing.
 
 ## License
 
