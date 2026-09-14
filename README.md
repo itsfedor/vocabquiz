@@ -1,8 +1,8 @@
 # VocabQuiz
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PaperMC](https://img.shields.io/badge/PaperMC-1.21-4ade80)]()
-[![Vault](https://img.shields.io/badge/Vault-required-8250df)]()
+[![PaperMC](https://img.shields.io/badge/PaperMC-1.21-4ade80)](https://papermc.io/downloads/paper)
+[![Vault](https://img.shields.io/badge/Vault-required-8250df)](https://www.spigotmc.org/resources/vault.34315/)
 
 A broadcast vocabulary quiz for English-learning servers. Every 10 minutes
 the server announces a theme (animals, food, weather, colors and more),
@@ -12,6 +12,8 @@ each player gets a personal question, and the first correct answer within
 <p align="center">
   <img src="assets/preview.jpg" alt="VocabQuiz" width="80%" />
 </p>
+
+Part of a four-plugin ESL family: [Chat2Earn](https://github.com/itsfedor/chat2earn) · [EnglishProgression](https://github.com/itsfedor/englishprogression) · [VocabQuiz](https://github.com/itsfedor/vocabquiz) · [DailyEnglish](https://github.com/itsfedor/dailyenglish)
 
 ## Why this plugin exists
 
