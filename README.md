@@ -16,10 +16,6 @@ the server announces a theme (animals, food, weather, colors and more),
 each player gets a personal question, and the first correct answer within
 30 seconds pays out.
 
-<p align="center">
-  <img src="assets/preview.jpg" alt="VocabQuiz" width="80%" />
-</p>
-
 Part of a four-plugin ESL family: [Chat2Earn](https://github.com/itsfedor/chat2earn) · [EnglishProgression](https://github.com/itsfedor/englishprogression) · [VocabQuiz](https://github.com/itsfedor/vocabquiz) · [DailyEnglish](https://github.com/itsfedor/dailyenglish)
 
 ## Why this plugin exists
