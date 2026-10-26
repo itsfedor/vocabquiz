@@ -3,7 +3,7 @@
   "title": "VocabQuiz",
   "summary": "Broadcast vocabulary quiz with level-filtered questions, timed answers, and cash rewards.",
   "categories": ["utility", "social", "adventure"],
-  "license_id": "MIT",
+  "license_id": "AGPL-3.0",
   "client_side": "unsupported",
   "server_side": "required",
   "body_file": "scripts/modrinth/bodies/vocabquiz.md"
