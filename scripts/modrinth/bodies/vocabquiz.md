@@ -54,4 +54,4 @@ levels:
 
 ## License
 
-AGPL-3.0. Source code is in the [repository](https://github.com/itsfedor/vocabquiz).
+MIT. Source code is in the [repository](https://github.com/itsfedor/vocabquiz).
